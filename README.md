@@ -280,6 +280,32 @@ POSTGRES_PASSWORD=postgres
 
 ---
 
+# 📸 Screenshots
+
+## 🏗 Architecture
+
+![Architecture](images/architecture.png)
+
+---
+
+## 💻 GitHub Repository
+
+![Repository](images/github-repo.png)
+
+---
+
+## ⚙ GitHub Actions
+
+![GitHub Actions](images/github-actions.png)
+
+---
+
+## 📖 Swagger UI
+
+![Swagger UI](images/swagger-ui.png)
+
+---
+
 # 👨‍💻 Author
 
 **Mohit Yadav**
